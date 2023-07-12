@@ -10,6 +10,7 @@
     Height="600"
     Icon="/Assets/favicon.png"
     ResizeMode="CanResizeWithGrip"
+    Style="{StaticResource Styles.Titlebar}"
     WindowStartupLocation="CenterScreen"
     mc:Ignorable="d">
     <Grid />
